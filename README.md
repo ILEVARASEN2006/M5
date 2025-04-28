@@ -1,5 +1,5 @@
-## NAME-ILEVARASEN S
-## EX-21-POINTERS
+
+## EX-21-POINTER
 ## AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
